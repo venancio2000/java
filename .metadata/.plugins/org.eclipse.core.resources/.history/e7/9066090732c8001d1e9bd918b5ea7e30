@@ -14,9 +14,7 @@ public class TestaCondicional {
 				System.out.println("voce nao tem 18, mas pode entrar," + "pois está acompanhado");
 			}else {
 				System.out.println("infelizmente voce nao pode entrar");
-				
 			}
-			System.out.println("Muito Obrigado!");
 			
 		}
 	}
